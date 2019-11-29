@@ -5,4 +5,5 @@ life cycle demo
 mvn archetype:generate
 mvn install -X
 mvn install -Pproduction -X
+mvn help:active-profiles
 
